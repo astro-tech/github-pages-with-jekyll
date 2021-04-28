@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my test blog"
+title: "Welcome to astro-tech blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This blog site is made during a tutorial. Testing **bold** and *italic*.
